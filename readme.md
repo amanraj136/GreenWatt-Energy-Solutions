@@ -3,7 +3,7 @@
 Predicting per-turbine power output from operational and environmental signals to support grid planning, performance monitoring, and operations.
 
 ## Overview
-This project builds machine learning models to forecast wind turbine power output using 909,604 rows and 16 features of historical turbine and environmental data. It includes EDA, feature engineering, model training (Linear Regression, Random Forest, XGBoost), and interpretation via feature importance and partial dependence. The Random Forest model performs best and is the recommended baseline.
+This project builds machine learning models to forecast wind turbine power output using 909,604 rows and 16 features of historical turbine and environmental data. It includes EDA, feature engineering, model training (Linear Regression, Random Forest, XGBoost), and interpretation via feature importance and partial dependence. The Random Forest model performs best and is the recommended baseline, achieving over 99.7% of predictions within ±10% of the actual power output, demonstrating its reliability and practical utility for operational forecasting, making it well-suited for real-world turbine power forecasting applications.
 
 ## Key results
 - Best model: Random Forest Regressor
@@ -13,7 +13,7 @@ This project builds machine learning models to forecast wind turbine power outpu
 
 ## Files
 - `notebooks/major_project-GreenWatt-Energy-Solutions.ipynb` — full workflow and analysis
-- `reports/Data-Science_Major-Project.pdf` — problem statement/brief
+- `reports/Problem_Statement/Data-Science_Major-Project.pdf` — problem statement/brief
 - `reports/figures/` — exported plots (feature importance, PDPs)
 - `data/` — use `train.csv` at project root if available.
 
