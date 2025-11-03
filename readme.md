@@ -21,7 +21,7 @@ This project builds machine learning models to forecast wind turbine power outpu
 1. Python 3.10+; install dependencies:  
    pip install -r requirements.txt
 
-2. Place `train.csv` at the project root or in `data/`.
+2. Place `train.csv` at the project root or in `dataset/`.
 3. Open the notebook in `notebooks/` and run all cells.
 
 ## Methodology (short)
