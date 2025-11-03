@@ -15,7 +15,7 @@ This project builds machine learning models to forecast wind turbine power outpu
 - `notebooks/major_project-GreenWatt-Energy-Solutions.ipynb` — full workflow and analysis
 - `reports/Problem_Statement/Data-Science_Major-Project.pdf` — problem statement/brief
 - `reports/figures/` — exported plots (feature importance, PDPs)
-- `data/` — use `train.csv` at project root if available.
+- `dataset/` — use `train.csv` at project root if available.
 
 ## How to reproduce
 1. Python 3.10+; install dependencies:  
