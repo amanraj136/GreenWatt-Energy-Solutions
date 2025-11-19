@@ -1,4 +1,4 @@
-# GreenWatt Energy Solutions — Wind Turbine Power Forecasting
+# Wind Turbine Power Forecasting — GreenWatt Energy Solutions
 
 Predicting per-turbine power output from operational and environmental signals to support grid planning, performance monitoring, and operations.
 
